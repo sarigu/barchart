@@ -1,0 +1,13 @@
+#container {
+  display: flex;
+  align-items: flex-end;
+  margin-top: 18px;
+}
+
+#container div {
+  border-style: solid;
+  border-width: 2.5px;
+  color: white;
+  background-color: lightcoral;
+  width: 30px;
+}
